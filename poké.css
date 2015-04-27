@@ -62,7 +62,7 @@
 *[data-pkmn-type^="steel"] {
     background-color: #B8B8D0;
 }
-*[data-pkmn-type^="fairy"]] {
+*[data-pkmn-type^="fairy"] {
     background-color: #EE99AC;
 }
 *[data-pkmn-type$="-normal"] {
